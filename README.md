@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Dimitar Yanakiev! I'm a computer programming teacher at the Vocational High School for Computer Programming and innovations in Burgas, Bulgaria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</div>  
   
