@@ -3,7 +3,7 @@
   
 
 # 💫 About Me:
-🌱 I’m currently learning Haskel<br>💬 Ask me about .NET, Java, Azure and Databases
+🌱 I’m currently learning Haskell<br>💬 Ask me about .NET, Java, Azure and Databases
 
 
 # 💻 Tech Stack:
