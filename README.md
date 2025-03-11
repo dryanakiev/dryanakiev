@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Dimitar Yanakiev! I'm a computer programming teacher at the Vocational High School for Computer Programming and innovations in Burgas, Bulgaria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</div>  
+### <div align="center">I'm Dimitar Yanakiev! I'm a computer programming teacher at the Vocational High School for Computer Programming and Innovations in Burgas, Bulgaria. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. <br><br>Most of the repositories in my profile are from my time as a teacher. You can view them and get an idea of the things we've studied and my progression over the years.</div> 
   
 
 # 💫 About Me:
