@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dryanakiev&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dryanakiev?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://nirzak-streak-stats.vercel.app/?user=dryanakiev&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dryanakiev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
